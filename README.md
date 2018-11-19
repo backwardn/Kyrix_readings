@@ -1,7 +1,5 @@
 # Kyrix_readings
 
-# Data_Civilizer_Readings
-
 ## <a name='zui'> Old school ZUI
 
 * [Pad: An Alternative Approach to the Computer Interface](https://mrl.nyu.edu/~perlin/pad-siggraph.pdf) (SIGGRAPH 1993)
