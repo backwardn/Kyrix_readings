@@ -32,3 +32,7 @@
 
 * [Dynamic Prefetching of Data Tiles for Interactive Visualization
 ](http://www.cs.tufts.edu/comp/250VIS/papers/ForeCache-SIGMOD2016.pdf) (SIGMOD 2016)
+
+* [GPU Rasterization for Real-Time Spatial Aggregation over Arbitrary Polygons](http://www.vldb.org/pvldb/vol11/p352-zacharatou.pdf) (VLDB 2017)
+
+* [ChronosDB: Distributed, File Based, Geospatial Array DBMS](http://www.vldb.org/pvldb/vol11/p1247-zalipynis.pdf) (VLDB 2018)
