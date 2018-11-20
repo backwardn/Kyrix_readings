@@ -24,6 +24,18 @@
 
 * [Reactive Vega: A Streaming Dataflow Architecture for Declarative Interactive Visualization](http://idl.cs.washington.edu/files/2015-ReactiveVega-InfoVis.pdf) (InfoVis 2015)
 
+## <a name='perf'> Drill Down
+
+* [A Declarative Rendering Model for Multiclass Density Maps](https://doi.org/10.1109/TVCG.2018.2865141) (InfoVis 2018)
+
+* [A Taxonomy of Clutter Reduction for Information Visualisation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4376143) (TVCG 2007)
+
+* [Hierarchical Aggregation for Information Visualization](https://engineering.purdue.edu/~elm/projects/hieragg/hieragg.pdf) (TVCG 2010)
+
+* [Temporal, Geographical and Cagtegorical Aggregations viewed through Coordinated Displays](http://cvs.cs.umd.edu/~ben/papers/Fredrikson1999Temporal.pdf) (NPIVM 1999)
+
+* [Using Aggregation and Dynamic Queries for Exploring Large Datasets](https://www.researchgate.net/profile/Jade_Stewart/publication/221516020_Using_Aggregation_and_Dynamic_Queries_for_Exploring_Large_Data_Sets/links/0046353aeb8a9a8c5f000000/Using-Aggregation-and-Dynamic-Queries-for-Exploring-Large-Data-Sets.pdf) (CHI 1994)
+
 ## <a name='perf'> Performance related
   
 * [imMens: Real-time Visual Querying of Big Data](https://sfu-db.github.io/cmpt884-fall16/Papers/immens.pdf) (EuroVis 2013)
