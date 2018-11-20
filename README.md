@@ -12,6 +12,7 @@
 
 * [Space-scale diagrams: understanding multiscale interfaces](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.74.6616&rep=rep1&type=pdf) (CHI 1995)
 
+* [A Toolkit for Addressing HCI Issues in Visual Language Environments](https://hal.inria.fr/inria-00107339/document) (VL/HCC 2005)
 
 ## <a name='d3vega'> D3, Vega
   
@@ -36,3 +37,5 @@
 * [GPU Rasterization for Real-Time Spatial Aggregation over Arbitrary Polygons](http://www.vldb.org/pvldb/vol11/p352-zacharatou.pdf) (VLDB 2017)
 
 * [ChronosDB: Distributed, File Based, Geospatial Array DBMS](http://www.vldb.org/pvldb/vol11/p1247-zalipynis.pdf) (VLDB 2018)
+
+* [Dive In! Enabling Progressive Loading for Real-Time Navigation of Data Visualizations](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/p561-glueck.pdf) (CHI 2014)
