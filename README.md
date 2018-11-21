@@ -14,7 +14,7 @@
 
 * [A Toolkit for Addressing HCI Issues in Visual Language Environments](https://hal.inria.fr/inria-00107339/document) (VL/HCC 2005)
 
-## <a name='d3vega'> D3, Vega
+## <a name='toolkits'> Visualization Toolkits
   
 * [D3: Data-Driven Documents](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf) (InfoVis 2011)
 
@@ -23,6 +23,11 @@
 * [Declarative Interaction Design for Data Visualization](http://idl.cs.washington.edu/files/2014-DeclarativeInteraction-UIST.pdf) (UIST 2014)
 
 * [Reactive Vega: A Streaming Dataflow Architecture for Declarative Interactive Visualization](http://idl.cs.washington.edu/files/2015-ReactiveVega-InfoVis.pdf) (InfoVis 2015)
+
+* [Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations](http://idl.cs.washington.edu/files/2015-Voyager-InfoVis.pdf) (InfoVis 2015)
+* [Voyager 2: Augmenting Visual Analysis with Partial View Specifications](http://idl.cs.washington.edu/files/2017-Voyager2-CHI.pdf) (CHI 2017)
+
+* [Lyra: An Interactive Visualization Design Environment](http://idl.cs.washington.edu/files/2014-Lyra-EuroVis.pdf) (EuroVis 2014)
 
 ## <a name='perf'> Drill Down
 
