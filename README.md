@@ -56,3 +56,9 @@
 * [ChronosDB: Distributed, File Based, Geospatial Array DBMS](http://www.vldb.org/pvldb/vol11/p1247-zalipynis.pdf) (VLDB 2018)
 
 * [Dive In! Enabling Progressive Loading for Real-Time Navigation of Data Visualizations](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/p561-glueck.pdf) (CHI 2014)
+
+## <a name='graph'> Graph Vis
+
+* [Topology-Aware Navigation in Large Networks](https://hal.inria.fr/inria-00373679/document) (CHI 2009)
+
+* [GraphDiaries: Animated Transitions and Temporal Navigation for Dynamic Networks](https://ieeexplore.ieee.org/abstract/document/6658746) (TVCG 2013)
