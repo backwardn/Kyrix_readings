@@ -41,6 +41,8 @@
 
 * [Using Aggregation and Dynamic Queries for Exploring Large Datasets](https://www.researchgate.net/profile/Jade_Stewart/publication/221516020_Using_Aggregation_and_Dynamic_Queries_for_Exploring_Large_Data_Sets/links/0046353aeb8a9a8c5f000000/Using-Aggregation-and-Dynamic-Queries-for-Exploring-Large-Data-Sets.pdf) (CHI 1994)
 
+* [Critical Zones in Desert Fog: Aids to Multiscale Navigation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.440.7387&rep=rep1&type=pdf) (UIST 1998)
+
 ## <a name='perf'> Performance related
   
 * [imMens: Real-time Visual Querying of Big Data](https://sfu-db.github.io/cmpt884-fall16/Papers/immens.pdf) (EuroVis 2013)
