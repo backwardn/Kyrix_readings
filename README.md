@@ -62,3 +62,11 @@
 * [Topology-Aware Navigation in Large Networks](https://hal.inria.fr/inria-00373679/document) (CHI 2009)
 
 * [GraphDiaries: Animated Transitions and Temporal Navigation for Dynamic Networks](https://ieeexplore.ieee.org/abstract/document/6658746) (TVCG 2013)
+
+## <a name='focuscontext'> Focus + Context
+
+* [Generalized Fisheye Views](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.124.1233&rep=rep1&type=pdf) (CHI 1989)
+
+* [Sigma lenses: focus-context transitions combining space, time and translucence](https://www.lri.fr/~appert/website/papers/SigmaLenses.pdf) (CHI 2008)
+
+
