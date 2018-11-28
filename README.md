@@ -59,6 +59,10 @@
 
 * [Dive In! Enabling Progressive Loading for Real-Time Navigation of Data Visualizations](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/p561-glueck.pdf) (CHI 2014)
 
+* [Nanocubes for Real-Time Exploration of Spatiotemporal Datasets](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.394.4736&rep=rep1&type=pdf) (TVCG 2013)
+
+* [FluxQuery: An Execution Framework for Highly Interactive Query Workloads](https://dl.acm.org/citation.cfm?id=2882945) (SIGMOD 2016)
+
 ## <a name='graph'> Graph Vis
 
 * [Topology-Aware Navigation in Large Networks](https://hal.inria.fr/inria-00373679/document) (CHI 2009)
