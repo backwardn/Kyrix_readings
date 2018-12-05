@@ -78,3 +78,13 @@
 * [Sigma lenses: focus-context transitions combining space, time and translucence](https://www.lri.fr/~appert/website/papers/SigmaLenses.pdf) (CHI 2008)
 
 * [A Fisheye Follow-up: Further Reflections on Focus + Context](http://vis.berkeley.edu/files/chi06/Furnas_p999.pdf) (CHI 2006)
+
+## <a name='coorindatedviews'> Coordinated views
+
+* [A Coordination Model for Exploratory Multi-View Visualization](https://ieeexplore.ieee.org/abstract/document/1215005) (CMV 2003)
+
+* [Snap-together visualization: a user interface for coordinating visualizations via relational schemata](https://dl.acm.org/citation.cfm?id=345282) (AVI 2000)
+
+* [State of the Art: Coordinated & Multiple Views in Exploratory Visualization](https://ieeexplore.ieee.org/abstract/document/4269947) (CMV 2007)
+
+* [Exploring the Design Space of Composite Visualization](https://ieeexplore.ieee.org/abstract/document/6183556) (PacificVis 2012)
